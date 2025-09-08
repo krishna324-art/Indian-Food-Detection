@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1WPVCB6S5QHqC1nYdjrgMHteorzlWa4PF
 """
 
-!pip install ultralytics
+pip install ultralytics
 
 import gradio as gr
 import cv2
